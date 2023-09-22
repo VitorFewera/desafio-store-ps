@@ -1,0 +1,10 @@
+.home_container{
+  width: 90%;
+  margin: auto;
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap; /*esse flex-wrap: faz com que sempre que um item execer o tamanho em tela, ele
+                      vai para a linha de baixo;*/
+}
